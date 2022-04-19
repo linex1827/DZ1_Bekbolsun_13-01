@@ -1,0 +1,52 @@
+.full_screen {
+    height: 100vh;
+    background-color: rgb(173, 255, 245);
+
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+    padding-top: 170px
+}
+
+.block2 {
+    display: flex;
+    justify-content: center;
+}
+
+#buttonplus {
+    font-size: 20px;
+    width: 70px;
+    height: 60px;
+    margin-right: 20px;
+    background-color: rgb(252, 5, 58);
+}
+
+#counter {
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+#buttonminus {
+    font-size: 20px;
+    width: 70px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: rgb(16, 250, 250);
+}
+
+#reset {
+    width: 60px;
+    height: 50px;
+    border-radius: 40px;
+    margin-top: 15px;
+    background-color: rgb(225, 255, 0);
+}
+
+#counter {
+    background-color: rgb(63, 255, 9);
+}
