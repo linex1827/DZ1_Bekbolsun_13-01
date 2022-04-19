@@ -9,8 +9,6 @@ buttonplus.onclick = () => {
     counter.innerText = num.toString()
 }
 
-
-
 buttonminus.onclick = () =>{
     num--
     if(num < 1){
