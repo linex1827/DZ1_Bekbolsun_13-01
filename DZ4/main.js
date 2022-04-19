@@ -10,6 +10,7 @@ buttonplus.onclick = () => {
 }
 
 
+
 buttonminus.onclick = () =>{
     num--
     if(num < 1){
