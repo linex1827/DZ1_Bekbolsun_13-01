@@ -17,6 +17,7 @@ buttonminus.onclick = () =>{
     counter.innerText = num.toString()
 }
 
+
 reset.onclick =  () => {
     num = 0
     counter.innerText = num.toString()
