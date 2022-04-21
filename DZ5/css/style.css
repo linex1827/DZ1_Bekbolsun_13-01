@@ -1,0 +1,35 @@
+.container {
+  margin-top: 90px;
+
+}
+
+
+.svetofor {
+   width: 500px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: aquamarine;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block {
+  width: 150px;
+    height: 150px;
+    border-radius: 25px;
+}
+
+.yellow {
+  width: 150px;
+    height: 150px;
+    border-radius: 25px
+}
+
+.green {
+  width: 150px;
+    height: 150px;
+    border-radius: 25px;
+}
