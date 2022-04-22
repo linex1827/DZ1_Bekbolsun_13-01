@@ -16,20 +16,24 @@
     margin-right: auto;
 }
 
+
 .block {
   width: 150px;
     height: 150px;
     border-radius: 25px;
-}
+    background-color: gray;
+  }
 
 .yellow {
   width: 150px;
     height: 150px;
-    border-radius: 25px
+    border-radius: 25px;
+    background-color: gray;
 }
 
 .green {
   width: 150px;
     height: 150px;
     border-radius: 25px;
+    background-color: gray;
 }
