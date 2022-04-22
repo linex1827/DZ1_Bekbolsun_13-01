@@ -2,7 +2,7 @@ const not = prompt("Выберите цвет? RED,YELLOW,GREEN")
 
 
 switch (not) {
-    
+
 
     case "RED":
     const RED = document.querySelector('.block');
@@ -38,6 +38,8 @@ switch (not) {
     break;
 
     default: alert("ERROR");
+    
+    break;
 
     
 }
