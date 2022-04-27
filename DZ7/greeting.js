@@ -64,7 +64,8 @@ class School {
 }
 
 
-const school = new school(
+
+const school = new School(
     "yellow",
     20,
     20,
