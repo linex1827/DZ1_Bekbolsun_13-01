@@ -43,3 +43,43 @@ const dom = new DOM (
 console.log(dom)
 
 
+class School {
+    constructor(wall, cabinets, doors, window, teachers, materialOfwall, height, width, electricity, basement,area, floors, toilet, schoolboys, schoolgirls){
+        this.wall = wall;
+        this.cabinets = cabinets;
+        this.doors = doors;
+        this.window = window;
+        this.teachers = teachers;
+        this. materialOfwall = materialOfwall;
+        this.height = height;
+        this. width = width;
+        this.electricity = electricity;
+        this.basement = basement;
+        this.area = area;
+        this.floors = floors;
+        this.toilet = toilet;
+        this.schoolboys = schoolboys;
+        this.schoolgirls = schoolgirls;
+    }
+}
+
+
+const school = new school(
+    "yellow",
+    20,
+    20,
+    34,
+    40,
+    "brick",
+    "8m",
+    '200m',
+    "9kwat",
+    "9",
+    "435m^3",
+    3,
+    45,
+    648,
+    500
+)
+console.log(school)
+
